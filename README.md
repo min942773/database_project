@@ -1,6 +1,6 @@
 ## database_project
 
-팀원 : 김민주, 양재연
+팀원 : [김민주](https://github.com/min942773), [양재연](https://github.com/reyeon1209)
 
 ## 1. 프로젝트 소개
 ### 프로젝트 선정 이유
